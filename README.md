@@ -4,12 +4,6 @@ iPhoneアプリに[アドフリくん](https://adfurikun.jp/ "アドフリくん
 
 [公式マニュアル](https://github.com/glossom-dev/AdfurikunSDK-iOS/wiki "公式マニュアル")を参考にさせていただきました。ご使用の際は広告枠IDを指定してください。
 
-下記よりサンプルをダウンロード出来ますので、導入の際のお役に立てば幸いです。
-
-## ダウンロード
-
-- <https://github.com/masakihirokawa/objc-adfurikun-rewarded-video-ads>
-
 ## 導入準備
 
 ### 1. 広告枠IDの保持
