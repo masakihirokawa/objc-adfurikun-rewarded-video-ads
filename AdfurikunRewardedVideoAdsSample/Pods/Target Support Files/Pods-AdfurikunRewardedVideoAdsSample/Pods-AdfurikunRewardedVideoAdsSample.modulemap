@@ -1,0 +1,6 @@
+module Pods_AdfurikunRewardedVideoAdsSample {
+  umbrella header "Pods-AdfurikunRewardedVideoAdsSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
