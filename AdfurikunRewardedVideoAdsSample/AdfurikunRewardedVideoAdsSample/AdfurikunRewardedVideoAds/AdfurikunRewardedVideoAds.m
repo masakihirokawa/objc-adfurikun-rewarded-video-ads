@@ -176,10 +176,4 @@ static id sharedInstance = nil;
     [_activityIndicator stopAnimating];
 }
 
-// アクティビティインジケーターがアニメーション中であるか
-- (BOOL)isAnimating
-{
-    return [_activityIndicator isAnimating];
-}
-
 @end
