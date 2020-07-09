@@ -1,4 +1,4 @@
-# AdfurikunRewardedVideoAdsSample
+# アドフリくんの動画リワード広告導入手順
 
 iPhoneアプリに[アドフリくん](https://adfurikun.jp/ "アドフリくん")の動画リワード広告を表示するサンプルです。
 
